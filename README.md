@@ -16,7 +16,7 @@ I combine strong development fundamentals with solid Computer Science knowledge 
 - 🌍 **Real-World Systems**: Built GeoJSON-based auto-assignment platforms
 - 🧠 **Strong CS Foundation**: Data Structures, OS, Computer Networks
 - 🚀 **Currently Improving**: Advanced MERN architecture & DSA mastery
-- 📫 **Reach me**: anwarraza@example.com
+- 📫 **Reach me**: anwarraza6299@gmail.com
 
 ---
 
